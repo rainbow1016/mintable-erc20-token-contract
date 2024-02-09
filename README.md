@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Sample mintable erc20 token contract template
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This token contract is deployed on Avalanche testnet.
 
-Try running some of the following tasks:
+solidity 0.8.20
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+note: [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/)
